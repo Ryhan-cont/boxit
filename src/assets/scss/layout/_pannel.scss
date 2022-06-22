@@ -1,0 +1,17 @@
+.pannel-{
+    &-layout{
+        display: grid;
+    }
+    &-header{
+        background-color: red;
+    }
+
+    &-menubar{
+        background-color: blue;
+    }
+    &-body{
+        display: grid;
+        min-height: 100vh;
+        background-color: bisque;
+    }
+}
